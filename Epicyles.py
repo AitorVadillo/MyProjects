@@ -15,7 +15,3 @@ import Rhino.Geometry as rg
 import System.Drawing.Color as Color
 import ghpythonlib.treehelpers as th
 import random as rnd
-
-and
-
-
